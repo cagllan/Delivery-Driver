@@ -18,6 +18,12 @@ public class Driver : MonoBehaviour
     float moveAmount = moveSpeed * Input.GetAxis("Vertical") * Time.deltaTime;
     transform.Rotate(0, 0, -steerAmount);
     transform.Translate(0, moveAmount, 0);
+
+
+    if (Input.GetKey("escape"))
+    {
+      Application.Quit();
+    }
   }
 
   void OnCollisionEnter2D(Collision2D other)
