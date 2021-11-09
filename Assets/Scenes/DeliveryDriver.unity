@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4673058}
   - component: {fileID: 4673057}
+  - component: {fileID: 4673059}
   m_Layer: 0
   m_Name: House 2 (3)
   m_TagString: Untagged
@@ -206,6 +207,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &4673059
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4673056}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &27822007
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,6 +409,7 @@ GameObject:
   m_Component:
   - component: {fileID: 74096659}
   - component: {fileID: 74096658}
+  - component: {fileID: 74096660}
   m_Layer: 0
   m_Name: House 2 (1)
   m_TagString: Untagged
@@ -455,6 +483,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &74096660
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74096657}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &112044268
 GameObject:
   m_ObjectHideFlags: 0
@@ -465,6 +519,7 @@ GameObject:
   m_Component:
   - component: {fileID: 112044270}
   - component: {fileID: 112044269}
+  - component: {fileID: 112044271}
   m_Layer: 0
   m_Name: House 3 (7)
   m_TagString: Untagged
@@ -538,6 +593,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 104
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &112044271
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112044268}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &113323666
 GameObject:
   m_ObjectHideFlags: 0
@@ -548,6 +629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 113323668}
   - component: {fileID: 113323667}
+  - component: {fileID: 113323669}
   m_Layer: 0
   m_Name: House 1 (3)
   m_TagString: Untagged
@@ -621,6 +703,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &113323669
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113323666}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 6.625, y: 4.1}
+    newSize: {x: 6.625, y: 4.1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6.625, y: 4.1}
+  m_EdgeRadius: 0
 --- !u!1 &133530182
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,6 +739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 133530184}
   - component: {fileID: 133530183}
+  - component: {fileID: 133530185}
   m_Layer: 0
   m_Name: Rocks 1 (2)
   m_TagString: Untagged
@@ -704,6 +813,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &133530185
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 133530182}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &146826243
 GameObject:
   m_ObjectHideFlags: 0
@@ -714,6 +839,7 @@ GameObject:
   m_Component:
   - component: {fileID: 146826245}
   - component: {fileID: 146826244}
+  - component: {fileID: 146826246}
   m_Layer: 0
   m_Name: Rocks 1 (10)
   m_TagString: Untagged
@@ -787,6 +913,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 114
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &146826246
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146826243}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &147050938
 GameObject:
   m_ObjectHideFlags: 0
@@ -880,6 +1022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 149939024}
   - component: {fileID: 149939023}
+  - component: {fileID: 149939025}
   m_Layer: 0
   m_Name: Rocks 1 (7)
   m_TagString: Untagged
@@ -953,6 +1096,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 93
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &149939025
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 149939022}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &178680257
 GameObject:
   m_ObjectHideFlags: 0
@@ -1287,6 +1446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 227951891}
   - component: {fileID: 227951890}
+  - component: {fileID: 227951892}
   m_Layer: 0
   m_Name: Tree 2 (6)
   m_TagString: Untagged
@@ -1360,6 +1520,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 81
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &227951892
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227951889}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &242580496
 GameObject:
   m_ObjectHideFlags: 0
@@ -1370,6 +1546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 242580498}
   - component: {fileID: 242580497}
+  - component: {fileID: 242580499}
   m_Layer: 0
   m_Name: Tree 3 (2)
   m_TagString: Untagged
@@ -1443,6 +1620,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &242580499
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242580496}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.77
 --- !u!1 &268519071
 GameObject:
   m_ObjectHideFlags: 0
@@ -1702,6 +1895,7 @@ GameObject:
   m_Component:
   - component: {fileID: 373958664}
   - component: {fileID: 373958663}
+  - component: {fileID: 373958665}
   m_Layer: 0
   m_Name: Tree 1
   m_TagString: Untagged
@@ -1775,6 +1969,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &373958665
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 373958662}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &402260492
 GameObject:
   m_ObjectHideFlags: 0
@@ -2117,6 +2327,7 @@ GameObject:
   m_Component:
   - component: {fileID: 477232613}
   - component: {fileID: 477232614}
+  - component: {fileID: 477232615}
   m_Layer: 0
   m_Name: Tree 1 (2)
   m_TagString: Untagged
@@ -2190,6 +2401,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &477232615
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 477232612}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &494229476
 GameObject:
   m_ObjectHideFlags: 0
@@ -2200,6 +2427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 494229477}
   - component: {fileID: 494229478}
+  - component: {fileID: 494229479}
   m_Layer: 0
   m_Name: Tree 1 (1)
   m_TagString: Untagged
@@ -2273,6 +2501,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &494229479
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494229476}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &513338479
 GameObject:
   m_ObjectHideFlags: 0
@@ -2283,6 +2527,7 @@ GameObject:
   m_Component:
   - component: {fileID: 513338480}
   - component: {fileID: 513338481}
+  - component: {fileID: 513338482}
   m_Layer: 0
   m_Name: Tree 1
   m_TagString: Untagged
@@ -2356,6 +2601,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &513338482
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 513338479}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2546,6 +2807,7 @@ GameObject:
   m_Component:
   - component: {fileID: 552506364}
   - component: {fileID: 552506363}
+  - component: {fileID: 552506365}
   m_Layer: 0
   m_Name: Rocks 1 (9)
   m_TagString: Untagged
@@ -2619,6 +2881,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 112
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &552506365
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 552506362}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &554954720
 GameObject:
   m_ObjectHideFlags: 0
@@ -2629,6 +2907,7 @@ GameObject:
   m_Component:
   - component: {fileID: 554954722}
   - component: {fileID: 554954721}
+  - component: {fileID: 554954723}
   m_Layer: 0
   m_Name: House 2
   m_TagString: Untagged
@@ -2702,6 +2981,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &554954723
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 554954720}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &563518116
 GameObject:
   m_ObjectHideFlags: 0
@@ -2712,6 +3017,7 @@ GameObject:
   m_Component:
   - component: {fileID: 563518118}
   - component: {fileID: 563518117}
+  - component: {fileID: 563518119}
   m_Layer: 0
   m_Name: Tree 2 (11)
   m_TagString: Untagged
@@ -2785,6 +3091,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 86
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &563518119
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 563518116}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &584370088
 GameObject:
   m_ObjectHideFlags: 0
@@ -2795,6 +3117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 584370090}
   - component: {fileID: 584370089}
+  - component: {fileID: 584370091}
   m_Layer: 0
   m_Name: Tree 2 (15)
   m_TagString: Untagged
@@ -2868,6 +3191,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 108
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &584370091
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584370088}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &596987230
 GameObject:
   m_ObjectHideFlags: 0
@@ -3044,6 +3383,7 @@ GameObject:
   m_Component:
   - component: {fileID: 609681563}
   - component: {fileID: 609681562}
+  - component: {fileID: 609681564}
   m_Layer: 0
   m_Name: Tree 4 (3)
   m_TagString: Untagged
@@ -3117,6 +3457,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 95
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &609681564
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 609681561}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.68
 --- !u!1 &634468443
 GameObject:
   m_ObjectHideFlags: 0
@@ -3127,6 +3483,7 @@ GameObject:
   m_Component:
   - component: {fileID: 634468445}
   - component: {fileID: 634468444}
+  - component: {fileID: 634468446}
   m_Layer: 0
   m_Name: Rocks 1 (6)
   m_TagString: Untagged
@@ -3200,6 +3557,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 92
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &634468446
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 634468443}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &637254971
 GameObject:
   m_ObjectHideFlags: 0
@@ -3459,6 +3832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 708114153}
   - component: {fileID: 708114152}
+  - component: {fileID: 708114154}
   m_Layer: 0
   m_Name: House 1
   m_TagString: Untagged
@@ -3532,6 +3906,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &708114154
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 708114151}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 6.625, y: 4.1}
+    newSize: {x: 6.625, y: 4.1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6.625, y: 4.1}
+  m_EdgeRadius: 0
 --- !u!1 &712574756
 GameObject:
   m_ObjectHideFlags: 0
@@ -3542,6 +3942,7 @@ GameObject:
   m_Component:
   - component: {fileID: 712574758}
   - component: {fileID: 712574757}
+  - component: {fileID: 712574759}
   m_Layer: 0
   m_Name: Tree 2 (5)
   m_TagString: Untagged
@@ -3615,6 +4016,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &712574759
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 712574756}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &760075235
 GameObject:
   m_ObjectHideFlags: 0
@@ -3708,6 +4125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 787684423}
   - component: {fileID: 787684422}
+  - component: {fileID: 787684424}
   m_Layer: 0
   m_Name: Rocks 1 (3)
   m_TagString: Untagged
@@ -3781,6 +4199,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 79
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &787684424
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787684421}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &792604002
 GameObject:
   m_ObjectHideFlags: 0
@@ -3791,6 +4225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 792604004}
   - component: {fileID: 792604003}
+  - component: {fileID: 792604005}
   m_Layer: 0
   m_Name: House 2 (4)
   m_TagString: Untagged
@@ -3864,6 +4299,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &792604005
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 792604002}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &796596840
 GameObject:
   m_ObjectHideFlags: 0
@@ -3874,6 +4335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 796596842}
   - component: {fileID: 796596841}
+  - component: {fileID: 796596843}
   m_Layer: 0
   m_Name: Rocks 1 (8)
   m_TagString: Untagged
@@ -3947,6 +4409,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 107
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &796596843
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 796596840}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &801802613
 GameObject:
   m_ObjectHideFlags: 0
@@ -3957,6 +4435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 801802615}
   - component: {fileID: 801802614}
+  - component: {fileID: 801802616}
   m_Layer: 0
   m_Name: House 1 (1)
   m_TagString: Untagged
@@ -4030,6 +4509,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &801802616
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 801802613}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 6.625, y: 4.1}
+    newSize: {x: 6.625, y: 4.1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6.625, y: 4.1}
+  m_EdgeRadius: 0
 --- !u!1 &845768370
 GameObject:
   m_ObjectHideFlags: 0
@@ -4040,6 +4545,7 @@ GameObject:
   m_Component:
   - component: {fileID: 845768372}
   - component: {fileID: 845768371}
+  - component: {fileID: 845768373}
   m_Layer: 0
   m_Name: Tree 1 (4)
   m_TagString: Untagged
@@ -4113,6 +4619,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 110
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &845768373
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 845768370}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &847181382
 GameObject:
   m_ObjectHideFlags: 0
@@ -4123,6 +4645,7 @@ GameObject:
   m_Component:
   - component: {fileID: 847181384}
   - component: {fileID: 847181383}
+  - component: {fileID: 847181385}
   m_Layer: 0
   m_Name: House 3 (6)
   m_TagString: Untagged
@@ -4196,6 +4719,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 102
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &847181385
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 847181382}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &848337273
 GameObject:
   m_ObjectHideFlags: 0
@@ -4374,7 +4923,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 849178593}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.77, y: -1.39, z: 0}
+  m_LocalPosition: {x: -42.54, y: -1.31, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4453,6 +5002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 857281375}
   - component: {fileID: 857281374}
+  - component: {fileID: 857281376}
   m_Layer: 0
   m_Name: Tree 1 (1)
   m_TagString: Untagged
@@ -4526,6 +5076,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &857281376
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 857281373}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &895574723
 GameObject:
   m_ObjectHideFlags: 0
@@ -4536,6 +5102,7 @@ GameObject:
   m_Component:
   - component: {fileID: 895574725}
   - component: {fileID: 895574724}
+  - component: {fileID: 895574726}
   m_Layer: 0
   m_Name: Tree 2 (14)
   m_TagString: Untagged
@@ -4609,6 +5176,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 89
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &895574726
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 895574723}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &920123278
 GameObject:
   m_ObjectHideFlags: 0
@@ -4619,6 +5202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 920123280}
   - component: {fileID: 920123279}
+  - component: {fileID: 920123281}
   m_Layer: 0
   m_Name: Tree 1 (2)
   m_TagString: Untagged
@@ -4692,6 +5276,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &920123281
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920123278}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &952808373
 GameObject:
   m_ObjectHideFlags: 0
@@ -4702,6 +5302,7 @@ GameObject:
   m_Component:
   - component: {fileID: 952808375}
   - component: {fileID: 952808374}
+  - component: {fileID: 952808376}
   m_Layer: 0
   m_Name: House 1 (2)
   m_TagString: Untagged
@@ -4775,6 +5376,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &952808376
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952808373}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 6.625, y: 4.1}
+    newSize: {x: 6.625, y: 4.1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6.625, y: 4.1}
+  m_EdgeRadius: 0
 --- !u!1 &954654004
 GameObject:
   m_ObjectHideFlags: 0
@@ -4785,6 +5412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 954654006}
   - component: {fileID: 954654005}
+  - component: {fileID: 954654007}
   m_Layer: 0
   m_Name: Tree 2 (12)
   m_TagString: Untagged
@@ -4858,6 +5486,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 87
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &954654007
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 954654004}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &957222806
 GameObject:
   m_ObjectHideFlags: 0
@@ -4951,6 +5595,7 @@ GameObject:
   m_Component:
   - component: {fileID: 960680887}
   - component: {fileID: 960680886}
+  - component: {fileID: 960680888}
   m_Layer: 0
   m_Name: House 3 (1)
   m_TagString: Untagged
@@ -5024,6 +5669,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &960680888
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 960680885}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &962254300
 GameObject:
   m_ObjectHideFlags: 0
@@ -5117,6 +5788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 992502007}
   - component: {fileID: 992502008}
+  - component: {fileID: 992502009}
   m_Layer: 0
   m_Name: Tree 1 (4)
   m_TagString: Untagged
@@ -5190,6 +5862,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &992502009
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992502006}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &1001836763
 GameObject:
   m_ObjectHideFlags: 0
@@ -5200,6 +5888,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1001836765}
   - component: {fileID: 1001836764}
+  - component: {fileID: 1001836766}
   m_Layer: 0
   m_Name: Tree 4
   m_TagString: Untagged
@@ -5273,6 +5962,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1001836766
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1001836763}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.68
 --- !u!1 &1064717803
 GameObject:
   m_ObjectHideFlags: 0
@@ -5283,6 +5988,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1064717805}
   - component: {fileID: 1064717804}
+  - component: {fileID: 1064717806}
   m_Layer: 0
   m_Name: House 2 (7)
   m_TagString: Untagged
@@ -5356,6 +6062,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 101
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1064717806
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064717803}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &1066179307
 GameObject:
   m_ObjectHideFlags: 0
@@ -5366,6 +6098,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1066179309}
   - component: {fileID: 1066179308}
+  - component: {fileID: 1066179310}
   m_Layer: 0
   m_Name: Tree 2 (16)
   m_TagString: Untagged
@@ -5439,6 +6172,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 116
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1066179310
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066179307}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1169197651
 GameObject:
   m_ObjectHideFlags: 0
@@ -5449,6 +6198,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1169197653}
   - component: {fileID: 1169197652}
+  - component: {fileID: 1169197654}
   m_Layer: 0
   m_Name: Rocks 1 (5)
   m_TagString: Untagged
@@ -5522,6 +6272,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1169197654
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169197651}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &1170902385
 GameObject:
   m_ObjectHideFlags: 0
@@ -5532,6 +6298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1170902387}
   - component: {fileID: 1170902386}
+  - component: {fileID: 1170902388}
   m_Layer: 0
   m_Name: Tree 4 (2)
   m_TagString: Untagged
@@ -5605,6 +6372,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 94
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1170902388
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170902385}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.68
 --- !u!1 &1178492590
 GameObject:
   m_ObjectHideFlags: 0
@@ -5615,6 +6398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1178492592}
   - component: {fileID: 1178492591}
+  - component: {fileID: 1178492593}
   m_Layer: 0
   m_Name: Tree 2
   m_TagString: Untagged
@@ -5688,6 +6472,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1178492593
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178492590}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1182144683
 GameObject:
   m_ObjectHideFlags: 0
@@ -5698,6 +6498,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1182144685}
   - component: {fileID: 1182144684}
+  - component: {fileID: 1182144686}
   m_Layer: 0
   m_Name: House 3
   m_TagString: Untagged
@@ -5771,6 +6572,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1182144686
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1182144683}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1206122349
 GameObject:
   m_ObjectHideFlags: 0
@@ -5947,6 +6774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1291248864}
   - component: {fileID: 1291248863}
+  - component: {fileID: 1291248865}
   m_Layer: 0
   m_Name: House 2 (2)
   m_TagString: Untagged
@@ -6020,6 +6848,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1291248865
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291248862}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &1303233690
 GameObject:
   m_ObjectHideFlags: 0
@@ -6279,6 +7133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1321196068}
   - component: {fileID: 1321196067}
+  - component: {fileID: 1321196069}
   m_Layer: 0
   m_Name: Tree 1 (6)
   m_TagString: Untagged
@@ -6352,6 +7207,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 115
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1321196069
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321196066}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &1321390914
 GameObject:
   m_ObjectHideFlags: 0
@@ -6528,6 +7399,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1341267021}
   - component: {fileID: 1341267020}
+  - component: {fileID: 1341267022}
   m_Layer: 0
   m_Name: Tree 2 (1)
   m_TagString: Untagged
@@ -6601,6 +7473,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1341267022
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1341267019}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1352313333
 GameObject:
   m_ObjectHideFlags: 0
@@ -6611,6 +7499,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1352313334}
   - component: {fileID: 1352313335}
+  - component: {fileID: 1352313336}
   m_Layer: 0
   m_Name: Rocks 1
   m_TagString: Untagged
@@ -6684,6 +7573,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1352313336
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1352313333}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &1367558232
 GameObject:
   m_ObjectHideFlags: 0
@@ -6694,6 +7599,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1367558234}
   - component: {fileID: 1367558233}
+  - component: {fileID: 1367558235}
   m_Layer: 0
   m_Name: Rocks 1 (4)
   m_TagString: Untagged
@@ -6767,6 +7673,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 90
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1367558235
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1367558232}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &1367957437
 GameObject:
   m_ObjectHideFlags: 0
@@ -6777,6 +7699,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1367957439}
   - component: {fileID: 1367957438}
+  - component: {fileID: 1367957440}
   m_Layer: 0
   m_Name: Tree 3
   m_TagString: Untagged
@@ -6850,6 +7773,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1367957440
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1367957437}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.77
 --- !u!1 &1376484678
 GameObject:
   m_ObjectHideFlags: 0
@@ -7026,6 +7965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1377646704}
   - component: {fileID: 1377646703}
+  - component: {fileID: 1377646705}
   m_Layer: 0
   m_Name: Tree 2 (3)
   m_TagString: Untagged
@@ -7099,6 +8039,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1377646705
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377646702}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1379313172
 GameObject:
   m_ObjectHideFlags: 0
@@ -7109,6 +8065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1379313174}
   - component: {fileID: 1379313173}
+  - component: {fileID: 1379313175}
   m_Layer: 0
   m_Name: Tree 4 (1)
   m_TagString: Untagged
@@ -7182,6 +8139,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1379313175
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1379313172}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.68
 --- !u!1 &1416525899
 GameObject:
   m_ObjectHideFlags: 0
@@ -7275,6 +8248,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1422417950}
   - component: {fileID: 1422417951}
+  - component: {fileID: 1422417952}
   m_Layer: 0
   m_Name: Tree 1 (8)
   m_TagString: Untagged
@@ -7348,6 +8322,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1422417952
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422417949}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &1427388778
 GameObject:
   m_ObjectHideFlags: 0
@@ -7441,6 +8431,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1437199827}
   - component: {fileID: 1437199826}
+  - component: {fileID: 1437199828}
   m_Layer: 0
   m_Name: House 3 (8)
   m_TagString: Untagged
@@ -7514,6 +8505,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 117
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1437199828
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1437199825}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1472387759
 GameObject:
   m_ObjectHideFlags: 0
@@ -7524,6 +8541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1472387761}
   - component: {fileID: 1472387760}
+  - component: {fileID: 1472387762}
   m_Layer: 0
   m_Name: Tree 2 (10)
   m_TagString: Untagged
@@ -7597,6 +8615,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1472387762
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1472387759}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1482977432
 GameObject:
   m_ObjectHideFlags: 0
@@ -7607,6 +8641,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1482977434}
   - component: {fileID: 1482977433}
+  - component: {fileID: 1482977435}
   m_Layer: 0
   m_Name: Tree 1 (3)
   m_TagString: Untagged
@@ -7680,6 +8715,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1482977435
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1482977432}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &1499664424
 GameObject:
   m_ObjectHideFlags: 0
@@ -7856,6 +8907,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1534191606}
   - component: {fileID: 1534191605}
+  - component: {fileID: 1534191607}
   m_Layer: 0
   m_Name: Tree 2 (8)
   m_TagString: Untagged
@@ -7929,6 +8981,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 83
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1534191607
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1534191604}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1534999310
 GameObject:
   m_ObjectHideFlags: 0
@@ -7939,6 +9007,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1534999312}
   - component: {fileID: 1534999311}
+  - component: {fileID: 1534999313}
   m_Layer: 0
   m_Name: House 3 (5)
   m_TagString: Untagged
@@ -8012,6 +9081,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 97
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1534999313
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1534999310}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1536161998
 GameObject:
   m_ObjectHideFlags: 0
@@ -8105,6 +9200,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1565354312}
   - component: {fileID: 1565354311}
+  - component: {fileID: 1565354313}
   m_Layer: 0
   m_Name: Rocks 1 (1)
   m_TagString: Untagged
@@ -8178,6 +9274,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1565354313
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1565354310}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &1566433765
 GameObject:
   m_ObjectHideFlags: 0
@@ -8188,6 +9300,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1566433767}
   - component: {fileID: 1566433766}
+  - component: {fileID: 1566433768}
   m_Layer: 0
   m_Name: House 2 (6)
   m_TagString: Untagged
@@ -8261,6 +9374,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 100
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1566433768
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566433765}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &1579915358
 GameObject:
   m_ObjectHideFlags: 0
@@ -8437,6 +9576,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1589564649}
   - component: {fileID: 1589564648}
+  - component: {fileID: 1589564650}
   m_Layer: 0
   m_Name: Tree 2 (9)
   m_TagString: Untagged
@@ -8510,6 +9650,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1589564650
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589564647}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1601143134
 GameObject:
   m_ObjectHideFlags: 0
@@ -8603,6 +9759,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1602203513}
   - component: {fileID: 1602203512}
+  - component: {fileID: 1602203514}
   m_Layer: 0
   m_Name: Tree 3 (5)
   m_TagString: Untagged
@@ -8676,6 +9833,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 109
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1602203514
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1602203511}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.77
 --- !u!1 &1605438651
 GameObject:
   m_ObjectHideFlags: 0
@@ -8852,6 +10025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1646830231}
   - component: {fileID: 1646830232}
+  - component: {fileID: 1646830233}
   m_Layer: 0
   m_Name: Tree 1 (7)
   m_TagString: Untagged
@@ -8925,6 +10099,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1646830233
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1646830230}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &1688560759
 GameObject:
   m_ObjectHideFlags: 0
@@ -9018,6 +10208,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1696408616}
   - component: {fileID: 1696408615}
+  - component: {fileID: 1696408617}
   m_Layer: 0
   m_Name: Tree 1 (5)
   m_TagString: Untagged
@@ -9091,6 +10282,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 111
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1696408617
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696408614}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.79333335
 --- !u!1 &1718432323
 GameObject:
   m_ObjectHideFlags: 0
@@ -9101,6 +10308,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1718432325}
   - component: {fileID: 1718432324}
+  - component: {fileID: 1718432326}
   m_Layer: 0
   m_Name: Tree 2 (13)
   m_TagString: Untagged
@@ -9174,6 +10382,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 88
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1718432326
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1718432323}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1739054129
 GameObject:
   m_ObjectHideFlags: 0
@@ -9267,6 +10491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1763785617}
   - component: {fileID: 1763785616}
+  - component: {fileID: 1763785618}
   m_Layer: 0
   m_Name: Tree 3 (3)
   m_TagString: Untagged
@@ -9340,6 +10565,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 105
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1763785618
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763785615}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.77
 --- !u!1 &1764735882
 GameObject:
   m_ObjectHideFlags: 0
@@ -9350,6 +10591,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1764735884}
   - component: {fileID: 1764735883}
+  - component: {fileID: 1764735885}
   m_Layer: 0
   m_Name: House 3 (4)
   m_TagString: Untagged
@@ -9423,6 +10665,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1764735885
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1764735882}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1818834253
 GameObject:
   m_ObjectHideFlags: 0
@@ -9599,6 +10867,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1832229694}
   - component: {fileID: 1832229693}
+  - component: {fileID: 1832229695}
   m_Layer: 0
   m_Name: Tree 3 (1)
   m_TagString: Untagged
@@ -9672,6 +10941,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 96
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1832229695
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1832229692}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.77
 --- !u!1 &1855451213
 GameObject:
   m_ObjectHideFlags: 0
@@ -9765,6 +11050,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1860188554}
   - component: {fileID: 1860188553}
+  - component: {fileID: 1860188555}
   m_Layer: 0
   m_Name: Tree 2 (2)
   m_TagString: Untagged
@@ -9838,6 +11124,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1860188555
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860188552}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1864606442
 GameObject:
   m_ObjectHideFlags: 0
@@ -10014,6 +11316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1883103755}
   - component: {fileID: 1883103756}
+  - component: {fileID: 1883103757}
   m_Layer: 0
   m_Name: Tree 2 (1)
   m_TagString: Untagged
@@ -10087,6 +11390,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1883103757
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1883103754}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1904487903
 GameObject:
   m_ObjectHideFlags: 0
@@ -10097,6 +11416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1904487904}
   - component: {fileID: 1904487905}
+  - component: {fileID: 1904487906}
   m_Layer: 0
   m_Name: Tree 2
   m_TagString: Untagged
@@ -10170,6 +11490,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1904487906
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904487903}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &1905266242
 GameObject:
   m_ObjectHideFlags: 0
@@ -10180,6 +11516,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1905266244}
   - component: {fileID: 1905266243}
+  - component: {fileID: 1905266245}
   m_Layer: 0
   m_Name: House 3 (3)
   m_TagString: Untagged
@@ -10253,6 +11590,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1905266245
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1905266242}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1914320705
 GameObject:
   m_ObjectHideFlags: 0
@@ -10346,6 +11709,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1934894563}
   - component: {fileID: 1934894562}
+  - component: {fileID: 1934894564}
   m_Layer: 0
   m_Name: House 3 (2)
   m_TagString: Untagged
@@ -10419,6 +11783,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1934894564
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934894561}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.1, y: 5}
+    newSize: {x: 5.1, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5.1, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1936753324
 GameObject:
   m_ObjectHideFlags: 0
@@ -10429,6 +11819,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1936753326}
   - component: {fileID: 1936753325}
+  - component: {fileID: 1936753327}
   m_Layer: 0
   m_Name: Rocks 1
   m_TagString: Untagged
@@ -10502,6 +11893,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1936753327
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1936753324}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.2
 --- !u!1 &1981884667
 GameObject:
   m_ObjectHideFlags: 0
@@ -10595,6 +12002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1985364185}
   - component: {fileID: 1985364184}
+  - component: {fileID: 1985364186}
   m_Layer: 0
   m_Name: House 2 (5)
   m_TagString: Untagged
@@ -10668,6 +12076,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1985364186
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1985364183}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.725, y: 6.225}
+    newSize: {x: 4.725, y: 6.225}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.725, y: 6.225}
+  m_EdgeRadius: 0
 --- !u!1 &1999750210
 GameObject:
   m_ObjectHideFlags: 0
@@ -10844,6 +12278,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038848441}
   - component: {fileID: 2038848440}
+  - component: {fileID: 2038848442}
   m_Layer: 0
   m_Name: Tree 2 (7)
   m_TagString: Untagged
@@ -10917,6 +12352,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 82
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &2038848442
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038848439}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.3
 --- !u!1 &2065615713
 GameObject:
   m_ObjectHideFlags: 0
@@ -10927,6 +12378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2065615715}
   - component: {fileID: 2065615714}
+  - component: {fileID: 2065615716}
   m_Layer: 0
   m_Name: House 1 (4)
   m_TagString: Untagged
@@ -11000,6 +12452,32 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 99
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2065615716
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2065615713}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 6.625, y: 4.1}
+    newSize: {x: 6.625, y: 4.1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6.625, y: 4.1}
+  m_EdgeRadius: 0
 --- !u!1 &2072239537
 GameObject:
   m_ObjectHideFlags: 0
@@ -11010,6 +12488,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2072239539}
   - component: {fileID: 2072239538}
+  - component: {fileID: 2072239540}
   m_Layer: 0
   m_Name: Tree 3 (4)
   m_TagString: Untagged
@@ -11083,6 +12562,22 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &2072239540
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2072239537}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.77
 --- !u!1 &2133530805
 GameObject:
   m_ObjectHideFlags: 0
@@ -11093,6 +12588,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2133530807}
   - component: {fileID: 2133530806}
+  - component: {fileID: 2133530808}
   m_Layer: 0
   m_Name: Tree 4 (4)
   m_TagString: Untagged
@@ -11166,3 +12662,19 @@ Transform:
   m_Father: {fileID: 186306683}
   m_RootOrder: 113
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &2133530808
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133530805}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.68
